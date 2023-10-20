@@ -1,0 +1,45 @@
+.login-box{
+    width: 300px;
+    background-color: rgba(255, 166, 0, 0.293);
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 30px;
+    position: relative;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.login-box img{
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: 3px solid white;
+    position: relative;
+
+}
+.login-box input{
+    width: 93%;
+    height: 15px;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin: 4px 2px;
+    border: 3px solid #332fbb; 
+    border-radius: 10px;
+}
+.login-box button{
+    width: 20%;
+    padding: 10px;
+    background-color: #12a3ecbb;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.body{
+    background-image: url(codm-spectre-crash-test-4k-uhdpaper.com-1006.1_a-thumbnail.jpg);
+    background-size:cover;
+    background-position: center; 
+} 
